@@ -1,0 +1,3957 @@
+[
+  {
+    "id": "bp-overview-old-testament-tanak",
+    "title": "TaNaK / Old Testament (Book Overview)",
+    "title_zh": "塔納赫／舊約（書卷概覽）",
+    "description": "Walks through how the Hebrew Bible is arranged into Law, Prophets and Writings, and how that shape tells one unfolding story.",
+    "description_zh": "介紹希伯來聖經如何分為律法書、先知書和著作三部分，以及這個編排如何述說一個連貫的故事。",
+    "url": "https://bibleproject.com/videos/old-testament-tanak/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 13,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "bible_reading"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-genesis-1-11",
+    "title": "Genesis 1-11 (Book Overview)",
+    "title_zh": "創世記 1-11 章（書卷概覽）",
+    "description": "Explores the creation of the world, humanity's calling to partner with God, and the spiral of rebellion that follows.",
+    "description_zh": "探索世界的創造、人類與神同工的呼召，以及隨之而來不斷惡化的悖逆。",
+    "url": "https://bibleproject.com/videos/genesis-1-11/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-genesis-12-50",
+    "title": "Genesis 12-50 (Book Overview)",
+    "title_zh": "創世記 12-50 章（書卷概覽）",
+    "description": "Follows Abraham's family and God's promise to bless the nations through them, despite their repeated failures.",
+    "description_zh": "跟隨亞伯拉罕一家的故事，看神如何在他們屢次失敗中，仍堅守藉他們祝福萬國的應許。",
+    "url": "https://bibleproject.com/videos/genesis-12-50/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-exodus-1-18",
+    "title": "Exodus 1-18 (Book Overview)",
+    "title_zh": "出埃及記 1-18 章（書卷概覽）",
+    "description": "Traces how God rescues Israel from slavery in Egypt and confronts the injustice of Pharaoh.",
+    "description_zh": "追溯神如何把以色列人從埃及的奴役中拯救出來，並對抗法老的不義。",
+    "url": "https://bibleproject.com/videos/exodus-1-18/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-exodus-19-40",
+    "title": "Exodus 19-40 (Book Overview)",
+    "title_zh": "出埃及記 19-40 章（書卷概覽）",
+    "description": "Covers the covenant at Mount Sinai, Israel's failure with the golden calf, and God's presence coming to dwell in the tabernacle.",
+    "description_zh": "講述西乃山之約、以色列人鑄造金牛犢的失敗，以及神的同在降臨會幕之中。",
+    "url": "https://bibleproject.com/videos/exodus-19-40/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-leviticus",
+    "title": "Leviticus (Book Overview)",
+    "title_zh": "利未記（書卷概覽）",
+    "description": "Shows how sacrifices, priests and purity laws make a way for a holy God to live among an imperfect people.",
+    "description_zh": "說明獻祭、祭司和潔淨條例如何讓聖潔的神能住在不完全的子民中間。",
+    "url": "https://bibleproject.com/videos/leviticus/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-numbers",
+    "title": "Numbers (Book Overview)",
+    "title_zh": "民數記（書卷概覽）",
+    "description": "Follows Israel's journey through the wilderness, marked by grumbling and rebellion yet met by God's patience.",
+    "description_zh": "跟隨以色列人在曠野的旅程，他們不斷埋怨和悖逆，神卻一再忍耐。",
+    "url": "https://bibleproject.com/videos/numbers/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-deuteronomy",
+    "title": "Deuteronomy (Book Overview)",
+    "title_zh": "申命記（書卷概覽）",
+    "description": "Presents Moses' final speeches calling Israel to love God wholeheartedly before entering the promised land.",
+    "description_zh": "呈現摩西臨終前的講論，呼召以色列人在進入應許地前全心愛神。",
+    "url": "https://bibleproject.com/videos/deuteronomy/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-joshua",
+    "title": "Joshua (Book Overview)",
+    "title_zh": "約書亞記（書卷概覽）",
+    "description": "Covers Israel's entry into the land of Canaan and the tension between God's faithfulness and the people's obedience.",
+    "description_zh": "講述以色列人進入迦南地，以及神的信實與百姓順服之間的張力。",
+    "url": "https://bibleproject.com/videos/joshua/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-judges",
+    "title": "Judges (Book Overview)",
+    "title_zh": "士師記（書卷概覽）",
+    "description": "Traces a downward cycle of rebellion and rescue as Israel repeatedly forgets God in the land.",
+    "description_zh": "追溯以色列人在應許地上一再忘記神，陷入悖逆與拯救不斷循環下沉的歷史。",
+    "url": "https://bibleproject.com/videos/judges/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-ruth",
+    "title": "Ruth (Book Overview)",
+    "title_zh": "路得記（書卷概覽）",
+    "description": "Tells of a foreign widow's loyal love and how God works quietly through ordinary kindness and loss.",
+    "description_zh": "講述一位外邦寡婦的忠誠之愛，以及神如何在平凡的善行與失落中默默作工。",
+    "url": "https://bibleproject.com/videos/ruth/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "grief",
+      "relationships"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-1-samuel",
+    "title": "1 Samuel (Book Overview)",
+    "title_zh": "撒母耳記上（書卷概覽）",
+    "description": "Explores Israel's move to kingship, contrasting proud Saul with humble young David.",
+    "description_zh": "探索以色列走向君王制的過程，對比驕傲的掃羅與謙卑的少年大衛。",
+    "url": "https://bibleproject.com/videos/1-samuel/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-2-samuel",
+    "title": "2 Samuel (Book Overview)",
+    "title_zh": "撒母耳記下（書卷概覽）",
+    "description": "Follows King David's rise and his tragic fall, and God's promise of a lasting royal line.",
+    "description_zh": "跟隨大衛王的興起與悲劇性的墮落，以及神應許他的王朝永存。",
+    "url": "https://bibleproject.com/videos/2-samuel/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-kings",
+    "title": "1 & 2 Kings (Book Overview)",
+    "title_zh": "列王紀上下（書卷概覽）",
+    "description": "Traces the kings of Israel and Judah from Solomon to the exile, and the prophets who called them back to God.",
+    "description_zh": "追溯以色列和猶大眾王從所羅門直到被擄的歷史，以及呼喚他們歸向神的先知。",
+    "url": "https://bibleproject.com/videos/kings/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "prophets"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-chronicles",
+    "title": "1 & 2 Chronicles (Book Overview)",
+    "title_zh": "歷代志上下（書卷概覽）",
+    "description": "Retells Israel's history with a hopeful focus on the temple, David's line and a future restoration.",
+    "description_zh": "重述以色列的歷史，以盼望的角度聚焦於聖殿、大衛的後裔和將來的復興。",
+    "url": "https://bibleproject.com/videos/chronicles/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-ezra-nehemiah",
+    "title": "Ezra-Nehemiah (Book Overview)",
+    "title_zh": "以斯拉記－尼希米記（書卷概覽）",
+    "description": "Follows the exiles returning to rebuild Jerusalem and the temple, and their struggle to stay faithful.",
+    "description_zh": "跟隨被擄歸回的百姓重建耶路撒冷和聖殿，以及他們持守信仰的掙扎。",
+    "url": "https://bibleproject.com/videos/ezra-nehemiah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "community"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-esther",
+    "title": "Esther (Book Overview)",
+    "title_zh": "以斯帖記（書卷概覽）",
+    "description": "A story of a Jewish queen in Persia where God is never named, yet is at work behind the scenes.",
+    "description_zh": "一位在波斯作王后的猶太女子的故事；書中從未提及神的名字，祂卻在幕後作工。",
+    "url": "https://bibleproject.com/videos/esther/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-job",
+    "title": "Job (Book Overview)",
+    "title_zh": "約伯記（書卷概覽）",
+    "description": "Wrestles with why the righteous suffer and invites honest conversation with God in pain.",
+    "description_zh": "探討義人為何受苦，並邀請人在痛苦中與神坦誠對話。",
+    "url": "https://bibleproject.com/videos/job/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 11,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "wisdom_poetry",
+      "suffering",
+      "grief"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-psalms",
+    "title": "Psalms (Book Overview)",
+    "title_zh": "詩篇（書卷概覽）",
+    "description": "Shows how the Psalms are shaped as a prayer book that holds lament, praise and hope in the coming King.",
+    "description_zh": "展示詩篇如何編成一本禱告書，容納哀歌、讚美，以及對將來君王的盼望。",
+    "url": "https://bibleproject.com/videos/psalms/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "wisdom_poetry",
+      "prayer",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-proverbs",
+    "title": "Proverbs (Book Overview)",
+    "title_zh": "箴言（書卷概覽）",
+    "description": "Introduces Proverbs as practical wisdom for everyday choices, grounded in the fear of the Lord.",
+    "description_zh": "介紹箴言是以敬畏耶和華為根基、應用於日常抉擇的實用智慧。",
+    "url": "https://bibleproject.com/videos/proverbs/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "wisdom_poetry",
+      "character",
+      "relationships"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-ecclesiastes",
+    "title": "Ecclesiastes (Book Overview)",
+    "title_zh": "傳道書（書卷概覽）",
+    "description": "Explores the Teacher's honest look at life's fleeting nature and how to find joy in God's gifts.",
+    "description_zh": "探索傳道者如何坦然面對人生的短暫虛空，並在神的恩賜中尋得喜樂。",
+    "url": "https://bibleproject.com/videos/ecclesiastes/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "wisdom_poetry",
+      "work_purpose",
+      "doubt"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-song-songs",
+    "title": "Song of Songs (Book Overview)",
+    "title_zh": "雅歌（書卷概覽）",
+    "description": "Looks at this collection of love poems celebrating romance and pointing to God's love for his people.",
+    "description_zh": "探討這卷歌頌男女愛情的詩集，以及它如何指向神對祂子民的愛。",
+    "url": "https://bibleproject.com/videos/song-songs/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "wisdom_poetry",
+      "marriage"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-isaiah-1-39",
+    "title": "Isaiah 1-39 (Book Overview)",
+    "title_zh": "以賽亞書 1-39 章（書卷概覽）",
+    "description": "Covers Isaiah's warnings of judgment on Jerusalem and his vision of a coming righteous king.",
+    "description_zh": "講述以賽亞對耶路撒冷審判的警告，以及他對將來公義君王的異象。",
+    "url": "https://bibleproject.com/videos/isaiah-1-39/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-isaiah-40-66",
+    "title": "Isaiah 40-66 (Book Overview)",
+    "title_zh": "以賽亞書 40-66 章（書卷概覽）",
+    "description": "Explores comfort for exiles, the suffering servant and the hope of a renewed creation.",
+    "description_zh": "探索給被擄者的安慰、受苦的僕人，以及新天新地的盼望。",
+    "url": "https://bibleproject.com/videos/isaiah-40-66/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "hope",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-jeremiah",
+    "title": "Jeremiah (Book Overview)",
+    "title_zh": "耶利米書（書卷概覽）",
+    "description": "Follows a prophet who warns Jerusalem of exile yet holds out hope for a new covenant.",
+    "description_zh": "跟隨一位警告耶路撒冷將被擄的先知，他同時宣告新約的盼望。",
+    "url": "https://bibleproject.com/videos/jeremiah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "suffering",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-lamentations",
+    "title": "Lamentations (Book Overview)",
+    "title_zh": "耶利米哀歌（書卷概覽）",
+    "description": "Gives voice to grief after Jerusalem's destruction and models honest lament before God.",
+    "description_zh": "為耶路撒冷被毀後的哀傷發聲，示範如何在神面前誠實地哀哭。",
+    "url": "https://bibleproject.com/videos/lamentations/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "grief",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-ezekiel-1-33",
+    "title": "Ezekiel 1-33 (Book Overview)",
+    "title_zh": "以西結書 1-33 章（書卷概覽）",
+    "description": "Shows Ezekiel's strange visions of God's glory leaving the temple and judgment on Jerusalem.",
+    "description_zh": "展示以西結看見神的榮耀離開聖殿，以及耶路撒冷受審判的奇特異象。",
+    "url": "https://bibleproject.com/videos/ezekiel-1-33/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-ezekiel-34-48",
+    "title": "Ezekiel 34-48 (Book Overview)",
+    "title_zh": "以西結書 34-48 章（書卷概覽）",
+    "description": "Explores Ezekiel's hope of new hearts, dry bones brought to life and a renewed temple.",
+    "description_zh": "探索以西結所見的盼望：新的心、枯骨復生和更新的聖殿。",
+    "url": "https://bibleproject.com/videos/ezekiel-34-48/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-daniel",
+    "title": "Daniel (Book Overview)",
+    "title_zh": "但以理書（書卷概覽）",
+    "description": "Follows faithful exiles in Babylon and visions that God will overcome the beastly empires of the world.",
+    "description_zh": "跟隨在巴比倫忠心持守的被擄者，以及神必勝過世上獸國的異象。",
+    "url": "https://bibleproject.com/videos/daniel/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "revelation_apocalyptic",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-hosea",
+    "title": "Hosea (Book Overview)",
+    "title_zh": "何西阿書（書卷概覽）",
+    "description": "Uses the image of a faithful husband and an unfaithful spouse to show God's persistent love.",
+    "description_zh": "用忠心丈夫與不忠妻子的比喻，展示神鍥而不捨的愛。",
+    "url": "https://bibleproject.com/videos/hosea/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-joel",
+    "title": "Joel (Book Overview)",
+    "title_zh": "約珥書（書卷概覽）",
+    "description": "Reflects on a locust plague as a picture of the day of the Lord and a call to return to God.",
+    "description_zh": "藉蝗災反思耶和華的日子，並呼召人歸向神。",
+    "url": "https://bibleproject.com/videos/joel/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-amos",
+    "title": "Amos (Book Overview)",
+    "title_zh": "阿摩司書（書卷概覽）",
+    "description": "A shepherd-prophet confronts Israel's religious hypocrisy and neglect of the poor.",
+    "description_zh": "一位牧人先知斥責以色列宗教上的虛偽和對窮人的漠視。",
+    "url": "https://bibleproject.com/videos/amos/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-obadiah",
+    "title": "Obadiah (Book Overview)",
+    "title_zh": "俄巴底亞書（書卷概覽）",
+    "description": "A short prophecy against Edom's pride and violence, pointing to God's justice for all nations.",
+    "description_zh": "一卷針對以東驕傲與暴力的簡短預言，指向神對萬國的公義。",
+    "url": "https://bibleproject.com/videos/obadiah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-jonah",
+    "title": "Jonah (Book Overview)",
+    "title_zh": "約拿書（書卷概覽）",
+    "description": "Tells of a reluctant prophet and a God whose mercy reaches even Israel's enemies.",
+    "description_zh": "講述一位不情願的先知，以及一位連以色列仇敵也施憐憫的神。",
+    "url": "https://bibleproject.com/videos/jonah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "forgiveness",
+      "sharing_faith"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-micah",
+    "title": "Micah (Book Overview)",
+    "title_zh": "彌迦書（書卷概覽）",
+    "description": "Calls God's people to do justice, love mercy and walk humbly, while promising a coming ruler from Bethlehem.",
+    "description_zh": "呼召神的子民行公義、好憐憫、存謙卑的心，並應許一位從伯利恆而出的君王。",
+    "url": "https://bibleproject.com/videos/micah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-nahum",
+    "title": "Nahum (Book Overview)",
+    "title_zh": "那鴻書（書卷概覽）",
+    "description": "Announces the fall of violent Nineveh and God's justice against oppressive empires.",
+    "description_zh": "宣告殘暴的尼尼微必傾倒，以及神對欺壓人的帝國的公義審判。",
+    "url": "https://bibleproject.com/videos/nahum/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-habakkuk",
+    "title": "Habakkuk (Book Overview)",
+    "title_zh": "哈巴谷書（書卷概覽）",
+    "description": "A prophet questions God about evil and learns to live by faith while waiting.",
+    "description_zh": "一位先知向神質問世上的邪惡，並學習在等候中憑信而活。",
+    "url": "https://bibleproject.com/videos/habakkuk/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "doubt",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-zephaniah",
+    "title": "Zephaniah (Book Overview)",
+    "title_zh": "西番雅書（書卷概覽）",
+    "description": "Warns of the day of the Lord yet ends with God singing over a restored people.",
+    "description_zh": "警告耶和華的日子將臨，卻以神為復興的子民歡唱作結。",
+    "url": "https://bibleproject.com/videos/zephaniah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-haggai",
+    "title": "Haggai (Book Overview)",
+    "title_zh": "哈該書（書卷概覽）",
+    "description": "Urges returned exiles to rebuild the temple and put God first in their priorities.",
+    "description_zh": "勸勉歸回的百姓重建聖殿，把神放在首位。",
+    "url": "https://bibleproject.com/videos/haggai/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "work_purpose"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-zechariah",
+    "title": "Zechariah (Book Overview)",
+    "title_zh": "撒迦利亞書（書卷概覽）",
+    "description": "Uses vivid visions to encourage the returned exiles and point to a humble coming king.",
+    "description_zh": "用生動的異象鼓勵歸回的百姓，並指向一位謙和的將來君王。",
+    "url": "https://bibleproject.com/videos/zechariah/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-malachi",
+    "title": "Malachi (Book Overview)",
+    "title_zh": "瑪拉基書（書卷概覽）",
+    "description": "Addresses a weary, half-hearted community and promises a messenger who will prepare the way.",
+    "description_zh": "回應一個疲乏、敷衍的群體，並應許一位預備道路的使者。",
+    "url": "https://bibleproject.com/videos/malachi/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-new-testament-overview",
+    "title": "New Testament (Book Overview)",
+    "title_zh": "新約（書卷概覽）",
+    "description": "Surveys how the New Testament announces Jesus as the fulfilment of Israel's story and the start of new creation.",
+    "description_zh": "概覽新約如何宣告耶穌應驗了以色列的故事，並開展新創造。",
+    "url": "https://bibleproject.com/videos/new-testament-overview/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "gospels"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-matthew-1-13",
+    "title": "Matthew 1-13 (Book Overview)",
+    "title_zh": "馬太福音 1-13 章（書卷概覽）",
+    "description": "Presents Jesus as the promised Messiah and the new Moses who announces God's kingdom.",
+    "description_zh": "呈現耶穌是應許的彌賽亞和新摩西，宣告神的國度。",
+    "url": "https://bibleproject.com/videos/matthew-1-13/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-matthew-14-28",
+    "title": "Matthew 14-28 (Book Overview)",
+    "title_zh": "馬太福音 14-28 章（書卷概覽）",
+    "description": "Follows Jesus to Jerusalem, his death and resurrection, and the call to make disciples.",
+    "description_zh": "跟隨耶穌前往耶路撒冷、受死和復活，以及使萬民作門徒的大使命。",
+    "url": "https://bibleproject.com/videos/matthew-14-28/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "sharing_faith"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-mark",
+    "title": "Mark (Book Overview)",
+    "title_zh": "馬可福音（書卷概覽）",
+    "description": "Shows Jesus as the suffering Messiah whose kingdom comes through the cross.",
+    "description_zh": "展示耶穌是受苦的彌賽亞，祂的國度藉十字架降臨。",
+    "url": "https://bibleproject.com/videos/mark/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 10,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-luke-1-9",
+    "title": "Luke 1-9 (Book Overview)",
+    "title_zh": "路加福音 1-9 章（書卷概覽）",
+    "description": "Introduces Jesus' upside-down kingdom that welcomes the poor and outsiders.",
+    "description_zh": "介紹耶穌那接納窮人和邊緣人、顛覆世界價值的國度。",
+    "url": "https://bibleproject.com/videos/luke-1-9/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-luke-10-24",
+    "title": "Luke 10-24 (Book Overview)",
+    "title_zh": "路加福音 10-24 章（書卷概覽）",
+    "description": "Follows Jesus' journey to Jerusalem, his parables of grace, and his death and resurrection.",
+    "description_zh": "跟隨耶穌前往耶路撒冷的旅程、祂關於恩典的比喻，以及祂的受死與復活。",
+    "url": "https://bibleproject.com/videos/luke-10-24/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-john-1-12",
+    "title": "John 1-12 (Book Overview)",
+    "title_zh": "約翰福音 1-12 章（書卷概覽）",
+    "description": "Explores Jesus as the Word made flesh, revealed through signs that invite belief.",
+    "description_zh": "探索耶穌是道成肉身，藉著神蹟顯明自己，邀請人相信。",
+    "url": "https://bibleproject.com/videos/john-1-12/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "doubt"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-john-13-21",
+    "title": "John 13-21 (Book Overview)",
+    "title_zh": "約翰福音 13-21 章（書卷概覽）",
+    "description": "Covers Jesus' farewell words, his glorification on the cross and the risen Jesus sending his disciples.",
+    "description_zh": "講述耶穌臨別的教導、祂在十字架上得榮耀，以及復活的主差派門徒。",
+    "url": "https://bibleproject.com/videos/john-13-21/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "peace",
+      "community"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-acts-1-12",
+    "title": "Acts 1-12 (Book Overview)",
+    "title_zh": "使徒行傳 1-12 章（書卷概覽）",
+    "description": "Shows the Holy Spirit forming the first Jesus community in Jerusalem and spreading the good news.",
+    "description_zh": "展示聖靈如何在耶路撒冷建立第一個跟隨耶穌的群體，並把福音傳開。",
+    "url": "https://bibleproject.com/videos/acts-1-12/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "acts_early_church",
+      "community",
+      "sharing_faith"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-acts-13-28",
+    "title": "Acts 13-28 (Book Overview)",
+    "title_zh": "使徒行傳 13-28 章（書卷概覽）",
+    "description": "Follows Paul's journeys as the gospel crosses cultures and reaches Rome.",
+    "description_zh": "跟隨保羅的宣教旅程，看福音如何跨越文化，直達羅馬。",
+    "url": "https://bibleproject.com/videos/acts-13-28/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "acts_early_church",
+      "sharing_faith"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-romans-1-4",
+    "title": "Romans 1-4 (Book Overview)",
+    "title_zh": "羅馬書 1-4 章（書卷概覽）",
+    "description": "Explains how God's faithfulness brings Jews and non-Jews together as one family through Jesus.",
+    "description_zh": "解釋神的信實如何藉著耶穌使猶太人和外邦人成為一家。",
+    "url": "https://bibleproject.com/videos/romans-1-4/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-romans-5-16",
+    "title": "Romans 5-16 (Book Overview)",
+    "title_zh": "羅馬書 5-16 章（書卷概覽）",
+    "description": "Explores new life in the Spirit and how a diverse church can live in unity and love.",
+    "description_zh": "探索在聖靈裡的新生命，以及多元的教會如何在合一和愛中生活。",
+    "url": "https://bibleproject.com/videos/romans-5-16/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "community",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-1-corinthians",
+    "title": "1 Corinthians (Book Overview)",
+    "title_zh": "哥林多前書（書卷概覽）",
+    "description": "Paul addresses a divided church, applying the cross to conflicts over status, sex and worship.",
+    "description_zh": "保羅回應一個分裂的教會，把十字架的意義應用於地位、性和崇拜的爭議上。",
+    "url": "https://bibleproject.com/videos/1-corinthians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "community",
+      "conflict"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-2-corinthians",
+    "title": "2 Corinthians (Book Overview)",
+    "title_zh": "哥林多後書（書卷概覽）",
+    "description": "Paul explains how God's power shows up in weakness and suffering.",
+    "description_zh": "保羅解釋神的能力如何在軟弱和苦難中彰顯。",
+    "url": "https://bibleproject.com/videos/2-corinthians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-galatians",
+    "title": "Galatians (Book Overview)",
+    "title_zh": "加拉太書（書卷概覽）",
+    "description": "Paul argues that faith in Jesus, not law-keeping, makes people part of God's family.",
+    "description_zh": "保羅論證人成為神家裡的人，是因信耶穌而非靠守律法。",
+    "url": "https://bibleproject.com/videos/galatians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-ephesians",
+    "title": "Ephesians (Book Overview)",
+    "title_zh": "以弗所書（書卷概覽）",
+    "description": "Celebrates the new multi-ethnic family God has created in Jesus and how to live it out.",
+    "description_zh": "頌讚神在耶穌裡建立的多元族群新家庭，以及如何活出這身份。",
+    "url": "https://bibleproject.com/videos/ephesians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "identity",
+      "community"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-philippians",
+    "title": "Philippians (Book Overview)",
+    "title_zh": "腓立比書（書卷概覽）",
+    "description": "Paul, writing from prison, invites joy and humility shaped by Jesus' self-giving love.",
+    "description_zh": "保羅在獄中寫信，邀請人活出以耶穌捨己之愛為模樣的喜樂和謙卑。",
+    "url": "https://bibleproject.com/videos/philippians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "anxiety",
+      "peace"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-colossians",
+    "title": "Colossians (Book Overview)",
+    "title_zh": "歌羅西書（書卷概覽）",
+    "description": "Shows Jesus as supreme over all things and what that means for everyday life.",
+    "description_zh": "展示耶穌超乎萬有，以及這對日常生活的意義。",
+    "url": "https://bibleproject.com/videos/colossians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-1-thessalonians",
+    "title": "1 Thessalonians (Book Overview)",
+    "title_zh": "帖撒羅尼迦前書（書卷概覽）",
+    "description": "Paul encourages a young, persecuted church and offers hope about those who have died.",
+    "description_zh": "保羅鼓勵一個受逼迫的年輕教會，並就離世的信徒給予盼望。",
+    "url": "https://bibleproject.com/videos/1-thessalonians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "hope",
+      "grief"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-2-thessalonians",
+    "title": "2 Thessalonians (Book Overview)",
+    "title_zh": "帖撒羅尼迦後書（書卷概覽）",
+    "description": "Paul corrects confusion about Jesus' return and urges faithful, steady living.",
+    "description_zh": "保羅糾正對耶穌再來的誤解，勸勉信徒忠心踏實地生活。",
+    "url": "https://bibleproject.com/videos/2-thessalonians/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "work_purpose"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-1-timothy",
+    "title": "1 Timothy (Book Overview)",
+    "title_zh": "提摩太前書（書卷概覽）",
+    "description": "Paul guides Timothy in leading a church troubled by false teaching and the love of money.",
+    "description_zh": "保羅指導提摩太帶領一個受假教導和貪財困擾的教會。",
+    "url": "https://bibleproject.com/videos/1-timothy/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "money",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-2-timothy",
+    "title": "2 Timothy (Book Overview)",
+    "title_zh": "提摩太後書（書卷概覽）",
+    "description": "Paul's last letter urges Timothy to stay faithful and pass on the gospel despite hardship.",
+    "description_zh": "保羅的最後一封信，勉勵提摩太在艱難中忠心並傳承福音。",
+    "url": "https://bibleproject.com/videos/2-timothy/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "discipleship",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-titus",
+    "title": "Titus (Book Overview)",
+    "title_zh": "提多書（書卷概覽）",
+    "description": "Paul shows how grace trains believers in Crete to live good, transformed lives.",
+    "description_zh": "保羅說明恩典如何教導克里特的信徒過美善、被更新的生活。",
+    "url": "https://bibleproject.com/videos/titus/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-philemon",
+    "title": "Philemon (Book Overview)",
+    "title_zh": "腓利門書（書卷概覽）",
+    "description": "A personal letter appealing for reconciliation between a slave owner and a runaway slave.",
+    "description_zh": "一封私人書信，呼籲奴隸主人與逃跑的奴隸彼此和好。",
+    "url": "https://bibleproject.com/videos/philemon/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "forgiveness",
+      "relationships"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-hebrews",
+    "title": "Hebrews (Book Overview)",
+    "title_zh": "希伯來書（書卷概覽）",
+    "description": "Presents Jesus as greater than angels, Moses and the priests, urging weary believers to persevere.",
+    "description_zh": "呈現耶穌超越天使、摩西和祭司，勉勵疲乏的信徒堅持到底。",
+    "url": "https://bibleproject.com/videos/hebrews/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "hope",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-james",
+    "title": "James (Book Overview)",
+    "title_zh": "雅各書（書卷概覽）",
+    "description": "Practical wisdom on trials, speech, wealth and a faith that shows itself in action.",
+    "description_zh": "關於試煉、言語、財富以及以行動彰顯信心的實用智慧。",
+    "url": "https://bibleproject.com/videos/james/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "character",
+      "money"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-1-peter",
+    "title": "1 Peter (Book Overview)",
+    "title_zh": "彼得前書（書卷概覽）",
+    "description": "Encourages Christians facing suffering to live as hopeful exiles and follow Jesus' example.",
+    "description_zh": "鼓勵受苦的基督徒活出寄居者的盼望，效法耶穌的榜樣。",
+    "url": "https://bibleproject.com/videos/1-peter/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "suffering",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-2-peter",
+    "title": "2 Peter (Book Overview)",
+    "title_zh": "彼得後書（書卷概覽）",
+    "description": "Warns against false teachers and encourages growth in character while awaiting Jesus' return.",
+    "description_zh": "警告提防假教師，勉勵信徒在等候主再來時品格不斷成長。",
+    "url": "https://bibleproject.com/videos/2-peter/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-1-3-john",
+    "title": "1-3 John (Book Overview)",
+    "title_zh": "約翰一至三書（書卷概覽）",
+    "description": "Letters calling believers to walk in the light, love one another and hold to the truth about Jesus.",
+    "description_zh": "這些書信呼召信徒行在光明中、彼此相愛，並持守有關耶穌的真理。",
+    "url": "https://bibleproject.com/videos/1-3-john/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 10,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "relationships",
+      "community"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-jude",
+    "title": "Jude (Book Overview)",
+    "title_zh": "猶大書（書卷概覽）",
+    "description": "A short, urgent letter warning against corrupt teachers and calling believers to stay in God's love.",
+    "description_zh": "一封簡短而急切的書信，警告敗壞的教師，呼召信徒常在神的愛中。",
+    "url": "https://bibleproject.com/videos/jude/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 8,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "letters",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-revelation-1-11",
+    "title": "Revelation 1-11 (Book Overview)",
+    "title_zh": "啟示錄 1-11 章（書卷概覽）",
+    "description": "Introduces John's visions of the slain Lamb and the call for churches to faithfully witness.",
+    "description_zh": "介紹約翰所見被殺羔羊的異象，以及教會忠心作見證的呼召。",
+    "url": "https://bibleproject.com/videos/revelation-1-11/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 12,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "revelation_apocalyptic",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-overview-revelation-12-22",
+    "title": "Revelation 12-22 (Book Overview)",
+    "title_zh": "啟示錄 12-22 章（書卷概覽）",
+    "description": "Explores the defeat of evil and the vision of a new heaven and earth where God lives with people.",
+    "description_zh": "探索邪惡的最終潰敗，以及神與人同住的新天新地的異象。",
+    "url": "https://bibleproject.com/videos/revelation-12-22/",
+    "url_verified": true,
+    "category": "book-overview",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 12,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "revelation_apocalyptic",
+      "hope",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-heaven-and-earth",
+    "title": "Heaven & Earth",
+    "title_zh": "天與地",
+    "description": "Explores the biblical hope that God's space and our space will one day be fully united.",
+    "description_zh": "探索聖經的盼望：神的領域與人的領域終有一天完全合一。",
+    "url": "https://bibleproject.com/videos/heaven-and-earth/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-image-of-god",
+    "title": "Image of God",
+    "title_zh": "神的形像",
+    "description": "Unpacks what it means that every person is made to reflect God's character and rule.",
+    "description_zh": "解釋每個人被造來反映神的性情與管治是甚麼意思。",
+    "url": "https://bibleproject.com/videos/image-of-god/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "identity",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-messiah",
+    "title": "The Messiah",
+    "title_zh": "彌賽亞",
+    "description": "Traces the promise of a coming deliverer from Genesis through to Jesus.",
+    "description_zh": "追溯從創世記直到耶穌，那位將要來的拯救者的應許。",
+    "url": "https://bibleproject.com/videos/messiah/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "gospels"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-covenants",
+    "title": "Covenants",
+    "title_zh": "聖約",
+    "description": "Shows how God's covenant promises form the backbone of the whole biblical story.",
+    "description_zh": "展示神的立約應許如何構成整個聖經故事的骨幹。",
+    "url": "https://bibleproject.com/videos/covenants/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-holiness",
+    "title": "Holiness",
+    "title_zh": "聖潔",
+    "description": "Explains God's holiness as a powerful, good presence and how humans can draw near.",
+    "description_zh": "解釋神的聖潔是大能而美善的同在，以及人如何可以親近祂。",
+    "url": "https://bibleproject.com/videos/holiness/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "discipleship",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-sacrifice-and-atonement",
+    "title": "Sacrifice and Atonement",
+    "title_zh": "獻祭與贖罪",
+    "description": "Explores why the Bible uses sacrifice to deal with sin and how Jesus fulfils it.",
+    "description_zh": "探討聖經為何以獻祭處理罪，以及耶穌如何成全這一切。",
+    "url": "https://bibleproject.com/videos/sacrifice-and-atonement/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-law",
+    "title": "The Law",
+    "title_zh": "律法",
+    "description": "Asks why the Old Testament contains so many laws and how Christians should relate to them.",
+    "description_zh": "探討舊約為何有那麼多律法，以及基督徒應如何看待它們。",
+    "url": "https://bibleproject.com/videos/law/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-gospel-kingdom",
+    "title": "Gospel of the Kingdom",
+    "title_zh": "天國的福音",
+    "description": "Explains Jesus' announcement that God's kingdom has arrived and what that good news means.",
+    "description_zh": "解釋耶穌宣告神的國已經降臨，以及這好消息的意義。",
+    "url": "https://bibleproject.com/videos/gospel-kingdom/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "sharing_faith"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-day-of-the-lord",
+    "title": "Day of the Lord",
+    "title_zh": "耶和華的日子",
+    "description": "Explores how the Bible hopes for a day when God confronts evil and sets the world right.",
+    "description_zh": "探索聖經如何盼望神對付邪惡、使世界歸正的那一日。",
+    "url": "https://bibleproject.com/videos/day-of-the-lord/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prophets",
+      "justice",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-public-reading-scripture",
+    "title": "Public Reading of Scripture",
+    "title_zh": "公開誦讀經文",
+    "description": "Highlights the ancient practice of reading the Bible aloud together as a community.",
+    "description_zh": "強調一同在群體中朗讀聖經這個古老的操練。",
+    "url": "https://bibleproject.com/videos/public-reading-scripture/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 3,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "community"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-justice",
+    "title": "Justice",
+    "title_zh": "公義",
+    "description": "Shows that biblical justice means restoring right relationships and caring for the vulnerable.",
+    "description_zh": "展示聖經的公義是指恢復正確的關係並關顧弱勢者。",
+    "url": "https://bibleproject.com/videos/justice/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "justice",
+      "serving"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-exile",
+    "title": "Exile",
+    "title_zh": "被擄",
+    "description": "Traces the theme of exile from Eden to Babylon and how God brings his people home.",
+    "description_zh": "追溯從伊甸園到巴比倫的被擄主題，以及神如何帶領祂的子民回家。",
+    "url": "https://bibleproject.com/videos/exile/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "hope",
+      "suffering",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-way-of-the-exile",
+    "title": "The Way of the Exile",
+    "title_zh": "寄居者之道",
+    "description": "Explores how God's people can live faithfully as outsiders in a culture that is not their home.",
+    "description_zh": "探討神的子民如何在不屬於自己的文化中，以寄居者的身份忠心生活。",
+    "url": "https://bibleproject.com/videos/the-way-of-the-exile/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "identity",
+      "hope",
+      "moving"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-son-of-man",
+    "title": "Son of Man",
+    "title_zh": "人子",
+    "description": "Unpacks the phrase \"Son of Man\" from Daniel to Jesus' favourite way of describing himself.",
+    "description_zh": "解釋「人子」一詞從但以理書到耶穌最常用來形容自己的稱號。",
+    "url": "https://bibleproject.com/videos/son-of-man/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "prophets"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-temple",
+    "title": "Temple",
+    "title_zh": "聖殿",
+    "description": "Follows the story of God's dwelling place from the garden to Jesus and the church.",
+    "description_zh": "追溯神居所的故事，從伊甸園到耶穌與教會。",
+    "url": "https://bibleproject.com/videos/temple/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "community"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-generosity",
+    "title": "Generosity",
+    "title_zh": "慷慨",
+    "description": "Shows God as a generous host and invites us to share freely out of trust rather than scarcity.",
+    "description_zh": "展示神是慷慨的主人，邀請我們出於信靠而非匱乏感去樂意分享。",
+    "url": "https://bibleproject.com/videos/generosity/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "money",
+      "serving",
+      "financial_stress"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-sabbath-video",
+    "title": "Sabbath",
+    "title_zh": "安息日",
+    "description": "Explores the gift of Sabbath rest as a weekly practice of trust and freedom.",
+    "description_zh": "探索安息日的恩賜：每週操練信靠和得自由的安息。",
+    "url": "https://bibleproject.com/videos/sabbath-video/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "rest",
+      "peace",
+      "work_purpose"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-tree-of-life",
+    "title": "Tree of Life",
+    "title_zh": "生命樹",
+    "description": "Traces the tree of life image from Eden to Revelation and the choice between wisdom and folly.",
+    "description_zh": "追溯生命樹的意象從伊甸園到啟示錄，以及智慧與愚昧之間的抉擇。",
+    "url": "https://bibleproject.com/videos/tree-of-life/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-water-of-life",
+    "title": "Water of Life",
+    "title_zh": "生命的水",
+    "description": "Follows the biblical imagery of water as both chaos and the source of new life.",
+    "description_zh": "追溯聖經中水的意象：既是混沌，也是新生命的源頭。",
+    "url": "https://bibleproject.com/videos/water-of-life/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-test",
+    "title": "The Test",
+    "title_zh": "試驗",
+    "description": "Explains why God tests people in the Bible and how trials can form trust.",
+    "description_zh": "解釋聖經中神為何試驗人，以及試煉如何塑造信靠。",
+    "url": "https://bibleproject.com/videos/the-test/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "suffering",
+      "character",
+      "doubt"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-eternal-life",
+    "title": "Eternal Life",
+    "title_zh": "永生",
+    "description": "Explores eternal life as a new quality of life with God that starts now, not just life after death.",
+    "description_zh": "探討永生不只是死後的生命，而是現在已開始、與神同在的新生命。",
+    "url": "https://bibleproject.com/videos/eternal-life/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "hope",
+      "grief",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-blessing-and-curse",
+    "title": "Blessing and Curse",
+    "title_zh": "祝福與咒詛",
+    "description": "Traces how blessing and curse shape the biblical story and are resolved in Jesus.",
+    "description_zh": "追溯祝福與咒詛如何貫穿聖經故事，並在耶穌裡得到解決。",
+    "url": "https://bibleproject.com/videos/blessing-and-curse/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-last-will-be-first",
+    "title": "The Last Will Be First",
+    "title_zh": "在後的將要在前",
+    "description": "Shows God's pattern of choosing the overlooked younger sibling and lifting up the humble.",
+    "description_zh": "展示神揀選被忽視的弟妹、高舉謙卑人的模式。",
+    "url": "https://bibleproject.com/videos/last-will-be-first/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "identity",
+      "character",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-anointing",
+    "title": "Anointing",
+    "title_zh": "受膏",
+    "description": "Explains the practice of anointing and how it points to Jesus as the Anointed One.",
+    "description_zh": "解釋膏抹的做法，以及它如何指向耶穌是那受膏者。",
+    "url": "https://bibleproject.com/videos/anointing/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 3,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-city",
+    "title": "The City",
+    "title_zh": "城",
+    "description": "Follows the Bible's story of human cities and God's vision of a renewed city.",
+    "description_zh": "追溯聖經中人類城市的故事，以及神對更新之城的異象。",
+    "url": "https://bibleproject.com/videos/the-city/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "community",
+      "justice"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-chaos-dragon",
+    "title": "Chaos Dragon",
+    "title_zh": "混沌之龍",
+    "description": "Explores the biblical image of the chaos dragon as a symbol of evil that God defeats.",
+    "description_zh": "探索聖經中混沌之龍的意象，象徵被神擊敗的邪惡。",
+    "url": "https://bibleproject.com/videos/chaos-dragon/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 3,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "revelation_apocalyptic",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-mountain",
+    "title": "The Mountain",
+    "title_zh": "山",
+    "description": "Traces mountains as places where heaven and earth meet throughout Scripture.",
+    "description_zh": "追溯聖經中的山，作為天地相遇之處。",
+    "url": "https://bibleproject.com/videos/the-mountain/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 3,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "prayer"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-exodus-way",
+    "title": "The Exodus Way",
+    "title_zh": "出埃及之道",
+    "description": "Shows how the exodus pattern of slavery, wilderness and freedom repeats across the Bible.",
+    "description_zh": "展示從奴役、曠野到自由的出埃及模式，如何在整本聖經中重複出現。",
+    "url": "https://bibleproject.com/videos/the-exodus-way/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "hope",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-redemption",
+    "title": "Redemption",
+    "title_zh": "救贖",
+    "description": "Explores redemption as God buying back his people from slavery and debt.",
+    "description_zh": "探索救贖的意義：神把祂的子民從奴役和債務中贖回。",
+    "url": "https://bibleproject.com/videos/redemption/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-wilderness",
+    "title": "The Wilderness",
+    "title_zh": "曠野",
+    "description": "Explores the wilderness as a place of testing and dependence where God provides.",
+    "description_zh": "探索曠野是試煉與倚靠的地方，也是神供應之處。",
+    "url": "https://bibleproject.com/videos/the-wilderness/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "suffering",
+      "hope",
+      "job_loss"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-holy-spirit",
+    "title": "Spirit of God",
+    "title_zh": "神的靈",
+    "description": "Traces the Spirit of God as the life-giving presence from creation to Pentecost.",
+    "description_zh": "追溯神的靈從創造到五旬節，作為賜生命的同在。",
+    "url": "https://bibleproject.com/videos/holy-spirit/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "discipleship",
+      "acts_early_church"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-the-beatitudes",
+    "title": "The Beatitudes",
+    "title_zh": "八福",
+    "description": "Unpacks Jesus' blessings on the poor, the grieving and the peacemakers.",
+    "description_zh": "解釋耶穌對貧窮、哀慟和使人和睦者所宣告的福。",
+    "url": "https://bibleproject.com/videos/the-beatitudes/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "grief",
+      "peace"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-lords-prayer",
+    "title": "The Lord's Prayer",
+    "title_zh": "主禱文",
+    "description": "Walks through the prayer Jesus taught and how it shapes daily trust in God.",
+    "description_zh": "逐句講解耶穌所教的禱告，以及它如何塑造每天對神的信靠。",
+    "url": "https://bibleproject.com/videos/lords-prayer/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 9,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "prayer",
+      "gospels"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-wealth-and-worry",
+    "title": "Wealth and Worry",
+    "title_zh": "財富與憂慮",
+    "description": "Explores Jesus' teaching on money, possessions and freedom from anxiety.",
+    "description_zh": "探索耶穌關於金錢、財物和脫離憂慮的教導。",
+    "url": "https://bibleproject.com/videos/wealth-and-worry/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "anxiety",
+      "money",
+      "financial_stress"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-wisdom-in-relationships",
+    "title": "Wisdom in Relationships",
+    "title_zh": "人際關係中的智慧",
+    "description": "Covers Jesus' teaching on judging others, the golden rule and how to treat people well.",
+    "description_zh": "講述耶穌關於論斷人、金律以及如何善待別人的教導。",
+    "url": "https://bibleproject.com/videos/wisdom-in-relationships/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "relationships",
+      "conflict",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-shema-listen",
+    "title": "Shema / Listen",
+    "title_zh": "Shema／聽",
+    "description": "Explores the Hebrew word for \"listen\" and how true hearing leads to obedience.",
+    "description_zh": "探索希伯來文「聽」一字，以及真正的聆聽如何帶出順服。",
+    "url": "https://bibleproject.com/videos/shema-listen/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 3,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-yhwh-lord",
+    "title": "YHWH / LORD",
+    "title_zh": "YHWH／耶和華",
+    "description": "Looks at God's personal name and why many Bibles render it as \"the LORD\".",
+    "description_zh": "探討神的個人名字，以及為何很多譯本把它譯作「耶和華」或「主」。",
+    "url": "https://bibleproject.com/videos/yhwh-lord/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-ahavah-love",
+    "title": "Ahavah / Love",
+    "title_zh": "Ahavah／愛",
+    "description": "Explores the Hebrew word for love as both feeling and loyal action.",
+    "description_zh": "探索希伯來文「愛」字，既是情感，也是忠誠的行動。",
+    "url": "https://bibleproject.com/videos/ahavah-love/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "relationships",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-lev-heart",
+    "title": "Lev / Heart",
+    "title_zh": "Lev／心",
+    "description": "Unpacks the Hebrew idea of the heart as the centre of thought, will and emotion.",
+    "description_zh": "解釋希伯來觀念中的「心」是思想、意志和情感的中心。",
+    "url": "https://bibleproject.com/videos/lev-heart/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "identity",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-nephesh-soul",
+    "title": "Nephesh / Soul",
+    "title_zh": "Nephesh／魂",
+    "description": "Shows that the Hebrew word often translated \"soul\" refers to the whole living person.",
+    "description_zh": "說明常被譯作「魂」的希伯來字，其實指整個活生生的人。",
+    "url": "https://bibleproject.com/videos/nephesh-soul/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-meod-strength",
+    "title": "Meod / Strength",
+    "title_zh": "Meod／力量",
+    "description": "Explores the surprising meaning of \"strength\" in the call to love God with everything.",
+    "description_zh": "探索「盡力愛神」中「力」字令人意想不到的含義。",
+    "url": "https://bibleproject.com/videos/meod-strength/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "discipleship",
+      "money"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-khata-sin",
+    "title": "Khata / Sin",
+    "title_zh": "Khata／罪",
+    "description": "Explains sin as \"missing the mark\" and how that shapes our view of failure.",
+    "description_zh": "解釋罪的意思是「射不中靶」，以及這如何影響我們對失敗的理解。",
+    "url": "https://bibleproject.com/videos/khata-sin/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-pesha-transgression",
+    "title": "Pesha / Transgression",
+    "title_zh": "Pesha／過犯",
+    "description": "Looks at transgression as a breach of trust that damages relationships.",
+    "description_zh": "探討過犯是破壞信任、損害關係的背叛。",
+    "url": "https://bibleproject.com/videos/pesha-transgression/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "relationships"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-avon-iniquity",
+    "title": "Avon / Iniquity",
+    "title_zh": "Avon／罪孽",
+    "description": "Explores iniquity as a twisting of what is right and its lingering consequences.",
+    "description_zh": "探索罪孽是把正直扭曲，以及其長遠的後果。",
+    "url": "https://bibleproject.com/videos/avon-iniquity/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-shalom-peace",
+    "title": "Shalom / Peace",
+    "title_zh": "Shalom／平安",
+    "description": "Explores shalom as wholeness and restoration, not just the absence of conflict.",
+    "description_zh": "探索 shalom 是完整與復和，而不只是沒有衝突。",
+    "url": "https://bibleproject.com/videos/shalom-peace/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "peace",
+      "anxiety",
+      "conflict"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-yakhal-hope",
+    "title": "Yakhal / Hope",
+    "title_zh": "Yakhal／盼望",
+    "description": "Shows biblical hope as patient waiting rooted in God's character, not wishful thinking.",
+    "description_zh": "展示聖經中的盼望是根植於神性情的耐心等候，而非一廂情願。",
+    "url": "https://bibleproject.com/videos/yakhal-hope/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "hope",
+      "suffering",
+      "grief"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-chara-joy",
+    "title": "Chara / Joy",
+    "title_zh": "Chara／喜樂",
+    "description": "Explores joy as a choice to trust God that can coexist with sorrow.",
+    "description_zh": "探索喜樂是一種選擇信靠神的態度，能與憂傷並存。",
+    "url": "https://bibleproject.com/videos/chara-joy/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "hope",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-agape-love",
+    "title": "Agape / Love",
+    "title_zh": "Agape／愛",
+    "description": "Explains self-giving love as modelled by Jesus, even toward enemies.",
+    "description_zh": "解釋耶穌所示範的捨己之愛，甚至延及仇敵。",
+    "url": "https://bibleproject.com/videos/agape-love/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "relationships",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-euangelion-gospel",
+    "title": "Euangelion / Gospel",
+    "title_zh": "Euangelion／福音",
+    "description": "Unpacks the Greek word for \"good news\" and its royal announcement background.",
+    "description_zh": "解釋希臘文「好消息」一字及其作為君王宣告的背景。",
+    "url": "https://bibleproject.com/videos/euangelion-gospel/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "sharing_faith",
+      "gospels"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-martus-witness",
+    "title": "Martus / Witness",
+    "title_zh": "Martus／見證",
+    "description": "Explores what it means to be a witness to Jesus, even at personal cost.",
+    "description_zh": "探索作耶穌的見證人是甚麼意思，即使要付上代價。",
+    "url": "https://bibleproject.com/videos/martus-witness/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "sharing_faith",
+      "suffering"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-character-of-god-exodus",
+    "title": "Exodus 34:6-7 (Character of God)",
+    "title_zh": "出埃及記 34:6-7（神的性情）",
+    "description": "Introduces God's self-description to Moses, a key passage repeated throughout the Bible.",
+    "description_zh": "介紹神向摩西描述自己的經文，這段話在整本聖經中反覆出現。",
+    "url": "https://bibleproject.com/videos/character-of-god-exodus/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-character-of-god-compassion",
+    "title": "Rakhamim / Compassion",
+    "title_zh": "Rakhamim／憐憫",
+    "description": "Explores the Hebrew word for compassion, linked to a mother's womb-like love.",
+    "description_zh": "探索希伯來文「憐憫」一字，與母親腹中之愛相關。",
+    "url": "https://bibleproject.com/videos/character-of-god-compassion/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "grief",
+      "suffering",
+      "parenting"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-character-of-god-grace",
+    "title": "Khen / Grace",
+    "title_zh": "Khen／恩典",
+    "description": "Shows grace as God's generous favour toward people who have not earned it.",
+    "description_zh": "展示恩典是神白白賜給不配之人的慷慨恩惠。",
+    "url": "https://bibleproject.com/videos/character-of-god-grace/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-slow-to-anger",
+    "title": "'Erek 'Appayim / Slow to Anger",
+    "title_zh": "'Erek 'Appayim／不輕易發怒",
+    "description": "Explores God's patience and how it invites us to be slow to anger too.",
+    "description_zh": "探索神的忍耐，以及它如何邀請我們也不輕易發怒。",
+    "url": "https://bibleproject.com/videos/slow-to-anger/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "conflict",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-loyal-love",
+    "title": "Khesed / Loyal Love",
+    "title_zh": "Khesed／慈愛",
+    "description": "Unpacks khesed, God's steadfast, covenant-keeping love.",
+    "description_zh": "解釋 khesed，即神堅定守約的慈愛。",
+    "url": "https://bibleproject.com/videos/loyal-love/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "relationships",
+      "marriage",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-faithful",
+    "title": "Emet / Faithfulness",
+    "title_zh": "Emet／信實",
+    "description": "Explores God's faithfulness and reliability as the ground of our trust.",
+    "description_zh": "探索神的信實可靠，作為我們信靠的根基。",
+    "url": "https://bibleproject.com/videos/faithful/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "doubt",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-gaal-redeem",
+    "title": "Ga'al / Redeem",
+    "title_zh": "Ga'al／贖回",
+    "description": "A short word study on the family redeemer who rescues relatives from loss.",
+    "description_zh": "一個簡短的字詞研究，談及救贖至親脫離損失的「至親救贖者」。",
+    "url": "https://bibleproject.com/videos/gaal-redeem/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 1,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-kopher-ransom",
+    "title": "Kopher / Ransom",
+    "title_zh": "Kopher／贖價",
+    "description": "A short look at the Hebrew idea of ransom and its link to atonement.",
+    "description_zh": "簡短探討希伯來文「贖價」的觀念及其與贖罪的關係。",
+    "url": "https://bibleproject.com/videos/kopher-ransom/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 1,
+    "format": "video",
+    "depth": 3,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-vocab-insight-mammon-wealth",
+    "title": "Mammon / Wealth",
+    "title_zh": "Mammon／錢財",
+    "description": "A brief look at Jesus' word for wealth as a rival master competing for our trust.",
+    "description_zh": "簡短探討耶穌所說的「瑪門」，它是爭奪我們信靠的另一個主人。",
+    "url": "https://bibleproject.com/videos/vocab-insight-mammon-wealth/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 1,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "money",
+      "anxiety"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-vocab-insight-zakar-remember",
+    "title": "Zakar / Remember",
+    "title_zh": "Zakar／記念",
+    "description": "A brief study showing that biblical remembering involves acting on what is recalled.",
+    "description_zh": "簡短研究，說明聖經中的「記念」包括按所記起的去行動。",
+    "url": "https://bibleproject.com/videos/vocab-insight-zakar-remember/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 1,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "prayer",
+      "hope"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-what-is-bible",
+    "title": "How to Read the Bible: What Is the Bible?",
+    "title_zh": "如何讀聖經：聖經是甚麼？",
+    "description": "Explains how the Bible came together as a library of writings over many centuries.",
+    "description_zh": "解釋聖經如何經過許多世紀，匯集成一套書卷文庫。",
+    "url": "https://bibleproject.com/videos/what-is-bible/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-the-story-of-the-bible",
+    "title": "How to Read the Bible: The Story of the Bible",
+    "title_zh": "如何讀聖經：聖經的故事",
+    "description": "Gives a bird's-eye view of the Bible as one unified story leading to Jesus.",
+    "description_zh": "從高處俯瞰聖經是一個通向耶穌的完整故事。",
+    "url": "https://bibleproject.com/videos/the-story-of-the-bible/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "bible_reading"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-literary-styles-bible",
+    "title": "How to Read the Bible: Literary Styles",
+    "title_zh": "如何讀聖經：文學體裁",
+    "description": "Introduces the main types of writing in the Bible and why genre matters when reading.",
+    "description_zh": "介紹聖經的主要文體，以及閱讀時為何要留意體裁。",
+    "url": "https://bibleproject.com/videos/literary-styles-bible/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-bible-jewish-meditation-literature-h2r",
+    "title": "How to Read the Bible: Ancient Jewish Meditation Literature",
+    "title_zh": "如何讀聖經：古代猶太默想文學",
+    "description": "Shows how the Bible is designed for slow, repeated reading and meditation.",
+    "description_zh": "展示聖經是為了慢讀、重讀和默想而設計的。",
+    "url": "https://bibleproject.com/videos/bible-jewish-meditation-literature-h2r/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "prayer"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-plot-biblical-narrative",
+    "title": "How to Read the Bible: Plot",
+    "title_zh": "如何讀聖經：情節",
+    "description": "Explains how biblical stories build tension and resolution, and why context matters.",
+    "description_zh": "解釋聖經故事如何鋪排衝突與解決，以及為何要顧及上下文。",
+    "url": "https://bibleproject.com/videos/plot-biblical-narrative/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-character-biblical-narrative",
+    "title": "How to Read the Bible: Character",
+    "title_zh": "如何讀聖經：人物",
+    "description": "Shows how biblical characters are complex and morally mixed rather than simple heroes.",
+    "description_zh": "展示聖經人物複雜且善惡交織，並非簡單的英雄。",
+    "url": "https://bibleproject.com/videos/character-biblical-narrative/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-setting-biblical-narrative",
+    "title": "How to Read the Bible: Setting",
+    "title_zh": "如何讀聖經：場景",
+    "description": "Explores how places and times in biblical stories carry extra layers of meaning.",
+    "description_zh": "探討聖經故事中的地點和時間如何帶有額外層次的意義。",
+    "url": "https://bibleproject.com/videos/setting-biblical-narrative/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-design-patterns-biblical-narrative",
+    "title": "How to Read the Bible: Design Patterns",
+    "title_zh": "如何讀聖經：設計模式",
+    "description": "Explains how repeated words and parallel stories link the Bible together and point to Jesus.",
+    "description_zh": "解釋重複的字詞和平行的故事如何把聖經連結起來並指向耶穌。",
+    "url": "https://bibleproject.com/videos/design-patterns-biblical-narrative/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-art-biblical-poetry",
+    "title": "How to Read the Bible: Poetry",
+    "title_zh": "如何讀聖經：詩歌",
+    "description": "Introduces the features of Hebrew poetry, which makes up about a third of the Bible.",
+    "description_zh": "介紹約佔聖經三分之一的希伯來詩歌的特色。",
+    "url": "https://bibleproject.com/videos/art-biblical-poetry/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "wisdom_poetry"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-metaphor-biblical-poetry",
+    "title": "How to Read the Bible: Poetic Metaphor",
+    "title_zh": "如何讀聖經：詩歌中的隱喻",
+    "description": "Shows how metaphors work in biblical poetry and how to read them well.",
+    "description_zh": "展示隱喻在聖經詩歌中如何運作，以及如何好好閱讀它們。",
+    "url": "https://bibleproject.com/videos/metaphor-biblical-poetry/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "wisdom_poetry"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-book-of-psalms",
+    "title": "How to Read the Bible: The Book of Psalms",
+    "title_zh": "如何讀聖經：詩篇",
+    "description": "Explores how the Psalms are arranged as a whole book with an overall message.",
+    "description_zh": "探討詩篇如何被編排成一卷帶有整體信息的書。",
+    "url": "https://bibleproject.com/videos/book-of-psalms/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "wisdom_poetry",
+      "prayer"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-the-prophets",
+    "title": "How to Read the Bible: The Prophets",
+    "title_zh": "如何讀聖經：先知書",
+    "description": "Explains who the prophets were and how to approach their dense poetic books.",
+    "description_zh": "解釋先知是誰，以及如何閱讀他們充滿詩意而艱深的書卷。",
+    "url": "https://bibleproject.com/videos/the-prophets/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "prophets"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-reading-biblical-law",
+    "title": "How to Read the Bible: Biblical Law",
+    "title_zh": "如何讀聖經：聖經的律法",
+    "description": "Explains why the laws were given to Israel and how they fit the Bible's storyline.",
+    "description_zh": "解釋律法為何賜給以色列，以及它們在聖經故事中的位置。",
+    "url": "https://bibleproject.com/videos/reading-biblical-law/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "ot_narrative"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-books-solomon",
+    "title": "How to Read the Bible: The Books of Solomon",
+    "title_zh": "如何讀聖經：所羅門的書卷",
+    "description": "Compares Proverbs, Ecclesiastes and Song of Songs as three angles on wisdom.",
+    "description_zh": "比較箴言、傳道書和雅歌，從三個角度看智慧。",
+    "url": "https://bibleproject.com/videos/books-solomon/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "wisdom_poetry"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-how-to-read-gospel",
+    "title": "How to Read the Bible: The Gospel",
+    "title_zh": "如何讀聖經：福音書",
+    "description": "Explains why the four Gospels were written and how to read them as ancient biographies.",
+    "description_zh": "解釋四福音為何寫成，以及如何把它們當作古代傳記來讀。",
+    "url": "https://bibleproject.com/videos/how-to-read-gospel/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "gospels"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-how-to-read-the-bible-the-parables-of-jesus",
+    "title": "How to Read the Bible: The Parables of Jesus",
+    "title_zh": "如何讀聖經：耶穌的比喻",
+    "description": "Explores why Jesus taught in parables and how they both reveal and conceal.",
+    "description_zh": "探討耶穌為何用比喻教導，以及比喻如何既啟示又隱藏。",
+    "url": "https://bibleproject.com/videos/how-to-read-the-bible-the-parables-of-jesus/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "gospels"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-new-testament-letters-epistles-historical-context",
+    "title": "How to Read the Bible: New Testament Letters: Historical Context",
+    "title_zh": "如何讀聖經：新約書信：歷史背景",
+    "description": "Shows how knowing the historical setting of the New Testament letters helps us read them well.",
+    "description_zh": "展示了解新約書信的歷史背景如何幫助我們正確閱讀。",
+    "url": "https://bibleproject.com/videos/new-testament-letters-epistles-historical-context/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "letters"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-new-testament-letters-literary-context",
+    "title": "How to Read the Bible: New Testament Letters: Literary Context",
+    "title_zh": "如何讀聖經：新約書信：文學背景",
+    "description": "Explains how to follow the flow of thought within a whole letter rather than isolated verses.",
+    "description_zh": "解釋如何跟隨整封書信的思路，而非只看零碎經文。",
+    "url": "https://bibleproject.com/videos/new-testament-letters-literary-context/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "letters"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-apocalyptic-literature",
+    "title": "How to Read the Bible: Apocalyptic Literature",
+    "title_zh": "如何讀聖經：啟示文學",
+    "description": "Introduces apocalyptic visions in the Bible and basic steps for reading their symbols.",
+    "description_zh": "介紹聖經中的啟示性異象，以及解讀其象徵的基本步驟。",
+    "url": "https://bibleproject.com/videos/apocalyptic-literature/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "revelation_apocalyptic"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-bible-basics-choosing-translation",
+    "title": "How to Read the Bible: Choosing a Translation",
+    "title_zh": "如何讀聖經：選擇聖經譯本",
+    "description": "A quick guide to how Bible translations differ and how to pick one.",
+    "description_zh": "一個簡短指南，介紹聖經譯本的分別以及如何選擇。",
+    "url": "https://bibleproject.com/videos/bible-basics-choosing-translation/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 1,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-bible-basics-history-bible-translations",
+    "title": "How to Read the Bible: History of Bible Translations",
+    "title_zh": "如何讀聖經：聖經翻譯簡史",
+    "description": "A short overview of how the Bible has been translated through history.",
+    "description_zh": "簡短概覽聖經在歷史上如何被翻譯。",
+    "url": "https://bibleproject.com/videos/bible-basics-history-bible-translations/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 1,
+    "minutes_per_unit": 1,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-how-to-read-how-to-read-the-bible-series",
+    "title": "How to Read the Bible series (all parts)",
+    "title_zh": "如何讀聖經系列（全集）",
+    "description": "A full series on the Bible's literary styles, from narrative and poetry to letters and apocalyptic, suited to a term of group study.",
+    "description_zh": "一套完整系列，介紹聖經的各種文學體裁，由敘事、詩歌到書信和啟示文學，適合小組一整季研習。",
+    "url": "https://bibleproject.com/videos/collections/how-to-read-the-bible/",
+    "url_verified": true,
+    "category": "how-to-read",
+    "language": [
+      "en"
+    ],
+    "units": 19,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "bible_reading",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-torah-series",
+    "title": "Torah series (all parts)",
+    "title_zh": "律法書系列（全集）",
+    "description": "A seven-part walk through Genesis to Deuteronomy, tracing the foundation of the biblical story.",
+    "description_zh": "分七集走過創世記至申命記，追溯聖經故事的根基。",
+    "url": "https://bibleproject.com/videos/collections/torah/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 7,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-luke-acts-series",
+    "title": "Luke-Acts series (all parts)",
+    "title_zh": "路加福音－使徒行傳系列（全集）",
+    "description": "Nine episodes following Jesus' life in Luke and the growth of the early church in Acts.",
+    "description_zh": "共九集，跟隨路加福音中耶穌的生平，以及使徒行傳中初期教會的成長。",
+    "url": "https://bibleproject.com/videos/collections/luke-acts/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 9,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "acts_early_church",
+      "discipleship"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-spiritual-beings-series",
+    "title": "Spiritual Beings series (all parts)",
+    "title_zh": "靈界存在系列（全集）",
+    "description": "Explores what the Bible says about God, angels, the divine council, the satan and demons.",
+    "description_zh": "探討聖經對神、天使、天上議會、撒但和鬼魔的描述。",
+    "url": "https://bibleproject.com/videos/collections/spiritual-beings/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 8,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 3,
+    "has_guide": false,
+    "access": "free",
+    "hint_tags": [
+      "big_story",
+      "doubt"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-wisdom-series",
+    "title": "Wisdom series (all parts)",
+    "title_zh": "智慧書系列（全集）",
+    "description": "Three episodes comparing the wisdom of Proverbs, Ecclesiastes and Job on how to live well.",
+    "description_zh": "共三集，比較箴言、傳道書和約伯記中關於如何好好生活的智慧。",
+    "url": "https://bibleproject.com/videos/collections/wisdom/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 3,
+    "minutes_per_unit": 6,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "wisdom_poetry",
+      "suffering",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-shema-series",
+    "title": "Shema word study series (all parts)",
+    "title_zh": "Shema 字詞研究系列（全集）",
+    "description": "Six short studies on the key words of the Shema prayer about loving God with heart, soul and strength.",
+    "description_zh": "共六集簡短研究，探討示瑪禱文中「盡心、盡性、盡力愛神」的關鍵字詞。",
+    "url": "https://bibleproject.com/videos/collections/shema/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 6,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "discipleship",
+      "prayer",
+      "identity"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-word-study-character-of-god-series",
+    "title": "Character of God series (all parts)",
+    "title_zh": "神的性情系列（全集）",
+    "description": "Six episodes on God's self-description in Exodus 34: compassion, grace, patience, loyal love and faithfulness.",
+    "description_zh": "共六集，探討出埃及記 34 章中神的自我描述：憐憫、恩典、忍耐、慈愛和信實。",
+    "url": "https://bibleproject.com/videos/collections/character-of-god/",
+    "url_verified": true,
+    "category": "word-study",
+    "language": [
+      "en"
+    ],
+    "units": 6,
+    "minutes_per_unit": 5,
+    "format": "video",
+    "depth": 2,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "forgiveness",
+      "hope",
+      "big_story"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-ten-commandments-series",
+    "title": "The 10 Commandments series (all parts)",
+    "title_zh": "十誡系列（全集）",
+    "description": "A series exploring each of the Ten Commandments as wisdom for life together.",
+    "description_zh": "一套系列，把每一條誡命當作群體生活的智慧來探討。",
+    "url": "https://bibleproject.com/videos/collections/the-10-commandments/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 12,
+    "minutes_per_unit": 4,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "ot_narrative",
+      "character",
+      "relationships"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  },
+  {
+    "id": "bp-theme-sermon-on-the-mount-series",
+    "title": "Sermon on the Mount series (all parts)",
+    "title_zh": "登山寶訓系列（全集）",
+    "description": "A themed series walking through Jesus' Sermon on the Mount, from the Beatitudes to the two houses.",
+    "description_zh": "一套主題系列，由八福到兩種房子，逐步走過耶穌的登山寶訓。",
+    "url": "https://bibleproject.com/videos/collections/sermon-on-the-mount/",
+    "url_verified": true,
+    "category": "theme",
+    "language": [
+      "en"
+    ],
+    "units": 10,
+    "minutes_per_unit": 7,
+    "format": "video",
+    "depth": 1,
+    "has_guide": true,
+    "access": "free",
+    "hint_tags": [
+      "gospels",
+      "discipleship",
+      "character"
+    ],
+    "attribution": "Video by BibleProject (bibleproject.com). Used under BibleProject's free-use terms; content unmodified."
+  }
+]
