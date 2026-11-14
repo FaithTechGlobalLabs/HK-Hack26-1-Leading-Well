@@ -70,7 +70,7 @@ export default async function SeasonPage({ params }: { params: Promise<{ id: str
           </Link>
           <h1 className="text-2xl font-bold">{season.name}</h1>
           <p className="text-muted-foreground">
-            {t("responsesCount", { n })} · {t("weeks", { n: season.target_weeks })}
+            <span data-testid="response-count">{t("responsesCount", { n })}</span> · {t("weeks", { n: season.target_weeks })}
           </p>
         </div>
         <Badge variant={season.status === "open" ? "success" : "secondary"} className="text-sm">
@@ -205,7 +205,7 @@ export default async function SeasonPage({ params }: { params: Promise<{ id: str
             {t("recsTitle")}
           </h2>
           <form action={generateRecommendationsAction.bind(null, id)}>
-            <SubmitButton disabled={!showBreakdown} pendingText={t("generating")}>
+            <SubmitButton disabled={!showBreakdown} pendingText={t("generating")} data-testid="generate-recs">
               <Sparkles className="size-4" aria-hidden />
               {recs.length ? t("regenerate") : t("generate")}
             </SubmitButton>
@@ -410,7 +410,7 @@ function RecommendationCard({
         <div className="flex flex-wrap items-center gap-2">
           <form action={pickRecommendationAction.bind(null, seasonId, rec.id)}>
             <input type="hidden" name="locale" value={locale} />
-            <SubmitButton size="sm" pendingText={t("drafting")}>
+            <SubmitButton size="sm" pendingText={t("drafting")} data-testid="pick-rec">
               {t("pick")}
             </SubmitButton>
           </form>

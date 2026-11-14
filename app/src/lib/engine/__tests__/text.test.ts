@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { keywordCrisis, scrubPII } from "../pii";
 import { keywordTags } from "../text";
+import { parseResourceCsv, RESOURCE_CSV_COLUMNS } from "../../catalog/parse";
 
 describe("PII scrub", () => {
   it("removes emails, HK phones, international phones and HKID", () => {
@@ -45,5 +46,17 @@ describe("keyword tagger", () => {
   it("maps EN and ZH text to taxonomy tags", () => {
     expect(keywordTags("I worry a lot about work").map((t) => t.tag)).toEqual(expect.arrayContaining(["anxiety", "work_purpose"]));
     expect(keywordTags("想學點樣禱告").map((t) => t.tag)).toContain("prayer");
+  });
+});
+
+describe("resource CSV url_verified", () => {
+  const row = (url: string, verified?: string) =>
+    ["x1", "A series", "", "About anxiety", "", url, "en", "6", "20", "video", "2", "true", "anxiety", verified ?? ""].join(",");
+
+  it("flags rows marked url_verified=false and defaults to verified", () => {
+    const csv = [RESOURCE_CSV_COLUMNS.join(","), row("https://www.rightnowmedia.org/", "false"), row("https://example.org/a")].join("\n");
+    const { items, errors } = parseResourceCsv(csv, "rightnow");
+    expect(errors).toEqual([]);
+    expect(items.map((i) => i.url_verified)).toEqual([false, true]);
   });
 });

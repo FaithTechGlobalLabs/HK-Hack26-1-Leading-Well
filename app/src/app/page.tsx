@@ -73,7 +73,7 @@ export default async function Home() {
             </CardHeader>
             <CardContent className="flex flex-col gap-2">
               <form action={demoSignIn.bind(null, "leader")}>
-                <Button className="w-full" type="submit">
+                <Button className="w-full" type="submit" data-testid="demo-leader">
                   {t("demoLeader")}
                 </Button>
               </form>

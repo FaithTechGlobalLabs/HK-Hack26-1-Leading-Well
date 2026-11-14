@@ -7,6 +7,8 @@ import { keywordTags } from "../engine/text";
 export interface CatalogSeed extends Omit<Resource, "id" | "tags" | "embedding"> {
   external_id: string;
   hint_tags: string[];
+  /** False when the link is a placeholder (e.g. the provider's homepage) that a curator should replace. */
+  url_verified?: boolean;
 }
 
 export const BIBLEPROJECT_ATTRIBUTION =
@@ -72,7 +74,7 @@ export function parseBibleProject(items: BibleProjectJson[]): CatalogSeed[] {
 
 export const RESOURCE_CSV_COLUMNS = [
   "external_id", "title", "title_zh", "description", "description_zh", "url", "language",
-  "units", "minutes_per_unit", "format", "depth", "has_guide", "hint_tags",
+  "units", "minutes_per_unit", "format", "depth", "has_guide", "hint_tags", "url_verified",
 ] as const;
 
 /** Parse the RightNow Media (or custom) CSV template. */
@@ -106,6 +108,7 @@ export function parseResourceCsv(csv: string, source: "rightnow" | "custom" = "r
       access: source === "rightnow" ? "subscription" : "free",
       attribution: source === "rightnow" ? "RightNow Media (rightnowmedia.org) — requires your church's subscription." : null,
       hint_tags: normaliseHints(list(row.hint_tags)),
+      url_verified: !/^(false|no|0)$/i.test(row.url_verified ?? ""),
     });
   });
   return { items, errors };

@@ -4,6 +4,7 @@ import type { GroupNeedProfile } from "../engine/needs";
 import { embed } from "../ai";
 import { resourceEmbeddingText } from "../catalog/parse";
 import { createSupabaseServerClient } from "../supabase/server";
+import { createSupabaseServiceClient } from "../supabase/admin";
 import type {
   AppUser,
   CatalogResource,
@@ -22,7 +23,7 @@ import type {
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
 const RESOURCE_COLUMNS =
-  "id, external_id, church_id, source, title, title_zh, description, description_zh, url, attribution, language, units, minutes_per_unit, depth, format, has_guide, access, tag_status, resource_tags(tag_key, relevance, source)";
+  "id, external_id, church_id, source, title, title_zh, description, description_zh, url, url_verified, attribution, language, units, minutes_per_unit, depth, format, has_guide, access, tag_status, resource_tags(tag_key, relevance, source)";
 
 function check<T>(res: { data: T; error: any }): T {
   if (res.error) throw new Error(res.error.message ?? String(res.error));
@@ -51,6 +52,11 @@ function toRecommendation(row: any): RecommendationRow {
 export class SupabaseRepo implements Repo {
   readonly kind = "supabase" as const;
   private clientPromise: Promise<SupabaseClient> | null = null;
+
+  /** Pass a client (e.g. the service-role client in scripts) to bypass the cookie-based server client. */
+  constructor(client?: SupabaseClient) {
+    if (client) this.clientPromise = Promise.resolve(client);
+  }
 
   private db(): Promise<SupabaseClient> {
     this.clientPromise ??= createSupabaseServerClient();
@@ -119,8 +125,9 @@ export class SupabaseRepo implements Repo {
     const rows = check(await sb.rpc("get_survey", { token })) as any[];
     return rows?.[0] ?? null;
   }
+  /** Called only from the server after PII scrubbing; the RPC is executable by the service role only. */
   async submitResponse(token: string, r: NewResponse) {
-    const sb = await this.db();
+    const sb = createSupabaseServiceClient();
     check(
       await sb.rpc("submit_survey_response", {
         token,

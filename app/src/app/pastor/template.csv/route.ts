@@ -15,6 +15,7 @@ export function GET() {
     "2",
     "true",
     "anxiety;prayer",
+    "true",
   ];
   const csv = `${RESOURCE_CSV_COLUMNS.join(",")}\n${example.map((v) => (/[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v)).join(",")}\n`;
   return new Response(csv, {

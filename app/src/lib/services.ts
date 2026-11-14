@@ -54,7 +54,7 @@ export const surveyInputSchema = z.object({
     events: z.array(z.string()).max(SITUATIONS.length).transform((xs) => xs.filter((x) => SITUATIONS.includes(x))),
     emotions: z.record(z.string(), small).transform((o) => Object.fromEntries(Object.entries(o).filter(([k]) => (EMOTIONS as string[]).includes(k)))),
     interests: z.array(z.string()).max(3).transform((xs) => xs.filter((x) => NEED_TAGS.includes(x))),
-    format: z.enum(["video", "discussion", "reading"]).optional(),
+    format: z.enum(["video", "discussion", "reading", "mixed"]).optional().transform((f) => (f === "mixed" ? undefined : f)),
     depth: z.number().int().min(1).max(3).optional(),
     prepMinutes: z.number().int().min(0).max(240).optional(),
   }),

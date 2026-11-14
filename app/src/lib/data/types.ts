@@ -79,6 +79,8 @@ export interface CatalogResource extends Resource {
   external_id: string | null;
   church_id: string | null;
   tag_status: "pending" | "ai" | "reviewed";
+  /** False when the stored link is a placeholder that should be replaced. */
+  url_verified?: boolean;
   tag_sources?: Record<string, "ai" | "pastor">;
 }
 

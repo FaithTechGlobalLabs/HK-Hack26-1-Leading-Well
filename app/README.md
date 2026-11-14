@@ -32,22 +32,25 @@ To try it, use the buttons on the landing page:
 | `npm run typecheck` / `npm run lint` | TypeScript and ESLint |
 | `npm test` | Vitest: engine (needs, scoring, RRF, MMR), PII scrub, CSV parsing, i18n key coverage |
 | `npm run build` | Production build |
+| `npm run e2e` | Playwright smoke test (survey → dashboard → recommendations → session plan). Builds and starts the app in offline demo mode with mocked AI and a throwaway demo store. Uses installed Google Chrome; set `E2E_BROWSER_CHANNEL=` to use bundled Chromium after `npx playwright install chromium`. |
+| `npm run seed:catalog` | Load `data/bibleproject.json` + `data/rightnow-sample.csv` → AI tag (offline keyword tagger without a key) → embed → upsert as global resources. Dry run (prints counts) without Supabase env or with `-- --dry-run`; `-- --limit N` for a subset. |
+| `npm run demo:responses -- --token <token> [--count 8] [--knowledge 0.4] [--themes anxiety,rest]` | Submit synthetic survey responses through the normal scrub/analyse pipeline. Uses Supabase with the service-role key when configured, otherwise the local demo store (token `demo`). |
 
 ## Production setup (Supabase + OpenAI)
 
 1. Copy `.env.example` to `.env.local` and fill in the Supabase URL, anon key, service-role key and `OPENAI_API_KEY`.
 2. Apply the schema. Pick one:
    - `supabase db push` with the Supabase CLI;
-   - or run `supabase/migrations/20261114000000_init.sql` in the SQL editor.
+   - or run the files in `supabase/migrations/` in order in the SQL editor.
 
    The migration creates:
    - the tables;
    - RLS (pastor sees their own church, leader sees their own groups, responses are inserted only through the token RPC);
    - pgvector and the RPCs `get_survey`, `submit_survey_response`, `match_resources`, `create_church` and `join_church`.
 3. Enable the email (magic link) auth provider. Add `<site>/auth/callback` to the redirect URLs.
-4. Load the catalog. For now, sign in as a pastor and import `data/rightnow-sample.csv` from `/pastor`.
-   - Imports are auto-tagged and embedded.
-   - Then click "Allow all".
+4. Load the catalog: `npm run seed:catalog` (needs `SUPABASE_SERVICE_ROLE_KEY`; uses `OPENAI_API_KEY` for tagging/embeddings when set).
+   - Pastors can also import their own CSV from `/pastor` (template at `/pastor/template.csv`); imports are auto-tagged and embedded.
+   - Review AI tags, then click "Allow all".
 
   
 5. Deploy to Vercel:
@@ -77,6 +80,7 @@ To try it, use the buttons on the landing page:
 
 - Responses are anonymous by default. A member can opt in to share their name.
 - No IP address or user agent is stored.
+- Survey submissions only go through the server action, which validates and PII-scrubs before storing. The `submit_survey_response` RPC is executable by `service_role` only (migration `20261114010000_lock_submit_rpc.sql`), so `SUPABASE_SERVICE_ROLE_KEY` must be set on the server.
 - Free text is PII-scrubbed before storage and before any LLM call. The scrub covers EN/ZH names, HK phone numbers, HKID and emails.
 - Group breakdowns are hidden below 3 responses. Counts are shown instead of percentages below 5.
 - Crisis detection (LLM plus a keyword safety net):
@@ -88,13 +92,10 @@ To try it, use the buttons on the landing page:
 - **BibleProject:** catalog entries store only title, description, link and attribution. Videos are free, unmodified, and linked to bibleproject.com.
   - All BibleProject entries are English only.
 - **RightNow Media:** metadata and links only; nothing gated is scraped. Members open the content with their church's subscription.
-  - In `data/rightnow-sample.csv`, 20 of the 51 rows link to the RightNow Media homepage because their series URLs could not be verified.
+  - In `data/rightnow-sample.csv`, 20 of the 51 rows link to the RightNow Media homepage because their series URLs could not be verified. These rows have `url_verified=false`; the flag is stored on `resources.url_verified` and shown as an "unverified link" badge in the pastor catalog so the link can be replaced.
   - Session counts and lengths are approximate.
 
 ## Known limitations / TODO
 
-- Playwright E2E smoke test and the seed scripts (`scripts/*`) were not finished during the hackathon.
-- In Supabase mode, `anon` can call `submit_survey_response` directly, which bypasses server-side PII scrubbing.
-  - Production should route submissions through a server-only key or an edge function.
 - Pastors can edit tags on global (shared) resources.
 - The demo store on Vercel uses `/tmp`, which is ephemeral per instance.

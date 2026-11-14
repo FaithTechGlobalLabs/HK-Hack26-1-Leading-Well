@@ -137,7 +137,8 @@
     "format": {
       "video": "影片",
       "discussion": "討論",
-      "reading": "閱讀"
+      "reading": "閱讀",
+      "mixed": "混合"
     },
     "prepTime": "一般預備時間",
     "minutes": "{n} 分鐘",
@@ -232,6 +233,7 @@
     },
     "subscription": "需訂閱",
     "free": "免費",
+    "urlUnverified": "連結未經核實——請更新",
     "reviewTags": "覆核標籤",
     "priority": "優先度（0–1）",
     "notes": "備註",

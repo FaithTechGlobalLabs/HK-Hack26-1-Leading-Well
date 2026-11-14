@@ -166,6 +166,11 @@ export default async function PastorPage({ searchParams }: { searchParams: Promi
                           {r.source === "bibleproject" ? "BibleProject" : r.source === "rightnow" ? "RightNow Media" : t("sourceCustom")} · {r.units}×
                           {r.minutes_per_unit}′ · {r.language.join("/")} · {r.access === "subscription" ? t("subscription") : t("free")}
                         </p>
+                        {r.url_verified === false && (
+                          <Badge variant="warning" className="mt-1" data-testid="url-unverified">
+                            {t("urlUnverified")}
+                          </Badge>
+                        )}
                       </td>
                       <td className="p-2">
                         <div className="flex flex-wrap gap-1">
